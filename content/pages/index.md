@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Stackbit Fresh.'
-    content: "       \_I am a Bioinformatician with Molecular Genetic related to Agriculture Science especially in the branch of Animal Science. Have experienced research in evolutionary Bioinformatics, Immunoinformatics, Mitochondrial DNA, and Meat Production & Technology. Also, several papers are published in these areas. I am a Bioinformatician with Molecular Genetic related to Agriculture Science especially in the branch of Animal Science. Have experienced research in evolutionary Bioinformatics, Immunoinformatics, Mitochondrial DNA, and Meat Production & Technology. Also, several papers are published in these areas.\n"
+    content: "       \_\n"
   - section_id: about
     type: section_content
     title: About
